@@ -1,3 +1,4 @@
 This is my first git commit 
 My name is Dominick Haggerty class of 2025
 I like to golf
+This is my homework!
