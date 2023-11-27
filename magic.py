@@ -12,7 +12,7 @@ def magic8():
     if(num == 1):
         print("yes")
     elif(num == 2):
-        print("Lebron told me no")
+        print("no")
     elif(num == 3):
         print("defidently")
     elif(num == 4):
@@ -22,7 +22,7 @@ def magic8():
     elif(num == 6):
         print("probably not")
     elif(num == 7):
-        print("dont get your hopes up buddy")
+        print("dont get your hopes up")
     elif(num == 8):
         print("without a doubt")
     elif(num == 9):
